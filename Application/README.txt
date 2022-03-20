@@ -1,0 +1,1 @@
+vous pouvez installer l'applicaion si vous cliquez sur setup ou bien ouvrir l'application directement en accedant au dossier Application files.
